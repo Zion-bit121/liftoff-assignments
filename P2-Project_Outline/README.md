@@ -17,7 +17,7 @@ Include Features here
 This application will be made up of these core features:
  - A battle system
  - A user login system
- - A selection for pokemon to chose from
+ - A selection for pokemon to choose from
 ### Technologies
 Include Technologies here
 To create the application I used:
